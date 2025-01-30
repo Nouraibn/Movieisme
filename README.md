@@ -28,7 +28,7 @@ Movieisme is an iOS app that allows users to explore movies, actors, and reviews
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/Movieisme.git
+git clone https://github.com/Nouraibn/Movieisme.git
 
 # Open in Xcode and run on an iOS simulator or device
 ```
