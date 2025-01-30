@@ -1,7 +1,5 @@
 
 # Movieisme App 🎬
-
-## Overview
 Movieisme is an iOS app that allows users to explore movies, actors, and reviews with real-time data fetched via API integration.
 
 ## Key Considerations
@@ -34,6 +32,5 @@ git clone https://github.com/yourusername/Movieisme.git
 
 # Open in Xcode and run on an iOS simulator or device
 ```
-
 
 
