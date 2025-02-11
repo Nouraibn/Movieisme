@@ -32,5 +32,8 @@ git clone https://github.com/Nouraibn/Movieisme.git
 
 # Open in Xcode and run on an iOS simulator or device
 ```
+## Contact 📬
+
+For any inquiries, please contact [Noura Alnassar](mailto:Noura_alnassar@hotmail.com).
 
 
